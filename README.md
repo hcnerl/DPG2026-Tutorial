@@ -4,7 +4,7 @@ Tutorial for the **[DPG Spring Meeting of the Condensed Matter Section (SKM) 202
 
 Dresden, March 8, 2026 | 16:00-18:15 h
 
-**Note: This tutorial is still work in progress, the final version will be available latest on March 5, 2026**
+**Note: The introductory slides of this tutorial session are available in the file [DPG26_HyperSpyIntro.pdf](https://github.com/LumiSpy/DPG2026-Tutorial/blob/main/DPG26_HyperSpyIntro.pdf)**
 
 ---------------
 
